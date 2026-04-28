@@ -34,7 +34,7 @@ Models are evaluated using metrics like Mean Squared Error (MSE) and R-squared v
 ## Usage
 To run the model and make predictions, execute:
 ```bash
-python main.py
+python app_streamlit.py
 ```
 Follow the prompts to input the necessary features for the prediction.
 
